@@ -1,0 +1,6 @@
+PowerShell commands:
+
+
+1. cd "$env:USERPROFILE\Desktop\local ai"
+
+2. .\start.ps1

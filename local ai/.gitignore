@@ -1,0 +1,7 @@
+**/node_modules/
+**/.electron-cache/
+**/.tmp/
+**/nodejs*/
+**node-v*-win-x64/
+*.lnk
+node_modules
